@@ -3,6 +3,8 @@
 - 📫 How to reach me: mrobith95@gmail.com
 
 List of repository
+- [mr-simple-candlestick](https://github.com/mrobith95/mr-simple-candlestick) -> Source code to build a simple app to visualize (some) financial data from yahoo finance. 
+- [mr-mt5-arima](https://github.com/mrobith95/mr-mt5-arima) -> A set of python script for taking/process data from Metatrader 5, fitting an ARIMA model on it, and do a forecast based on trained model.
 - [lssvmigwo](https://github.com/mrobith95/lssvmigwo) -> Example of using Metaheuristic to fine-tuning Machine Learning hyperparameter. The example is Load Forecasting using Least-Squares SVM tuned by Improved GWO
 - [mt5-guessbot-naive](https://github.com/mrobith95/mt5-guessbot-naive) -> Simple Random Walk to forecast latest candle's close price of financial data provided by MetaTrader5.
 
